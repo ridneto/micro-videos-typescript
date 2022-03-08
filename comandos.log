@@ -1,0 +1,3 @@
+npm install typescript @types/node --save-dev
+npm install ts-node-dev --save-dev
+npx tsc --init
